@@ -12,9 +12,15 @@ Wordpress 4.6 or later - http://www.wordpress.org/latest.zip
 AMP for Wordpress plugin by Automattic - https://wordpress.org/plugins/amp/
 
 # For reference
-For more details on Google Tag Manager, visit the Developer Reference at https://developers.google.com/tag-manager/quickstart
-For more details on AMP support in Google Analytics, visit https://developers.google.com/analytics/devguides/collection/amp-analytics/
-For more details on AMP support in Google Tag Manager, visit https://www.simoahava.com/analytics/accelerated-mobile-pages-via-google-tag-manager/
+For more details on Google Tag Manager, visit the Developer Reference at
+https://developers.google.com/tag-manager/quickstart
+
+For more details on AMP support in Google Analytics, visit
+https://developers.google.com/analytics/devguides/collection/amp-analytics/
+
+For more details on AMP support in Google Tag Manager, visit
+https://www.simoahava.com/analytics/accelerated-mobile-pages-via-google-tag-manager/
+
 You can extend this function by leveraging other contextual Wordpress elements and functions.
 Refer to the Wordpress Codex (knowledge base) at
 https://codex.wordpress.org/Developer_Documentation
