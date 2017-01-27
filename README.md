@@ -6,7 +6,9 @@ It is highly recommended to use a child theme for this.
 
 # Requirements
 PHP5.5 or later
+
 Wordpress 4.6 or later - http://www.wordpress.org/latest.zip
+
 AMP for Wordpress plugin by Automattic - https://wordpress.org/plugins/amp/
 
 # For reference
